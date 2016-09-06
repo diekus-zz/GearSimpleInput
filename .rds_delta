@@ -3,5 +3,6 @@
 #modify
 res/wgt/author-signature.xml
 res/wgt/signature1.xml
-res/wgt/css\style.css
+res/wgt/app.js
+res/wgt/click.html
 res/wgt/index.html
