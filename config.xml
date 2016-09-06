@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/GearSimpleInput" version="1.0.0" viewmodes="maximized">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/GearSimpleInput" version="0.0.1" viewmodes="maximized">
     <tizen:application id="RNJ3ZBLFlh.GearSimpleInput" package="RNJ3ZBLFlh" required_version="2.3.2"/>
+    <author email="diekus@gmail.com">diekus</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.normal"/>
     <icon src="icon.png"/>
